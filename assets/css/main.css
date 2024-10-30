@@ -391,9 +391,9 @@ input::-webkit-inner-spin-button {
 }
 
 .header .logo img {
-  max-height: 30px;
+  max-height: 95px;
   margin-right: 6px;
-  margin-bottom: 6px;
+  margin-top: 15px;
 }
 
 .header .logo h1 {
